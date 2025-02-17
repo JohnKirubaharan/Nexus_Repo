@@ -1,11 +1,5 @@
 # Nexus_Repo
 
-John Kirubaharan, L00187651
+Created a Branch
 
-Jayakumar, L00187728
-
-Tony Joshua, L00187464
-
-Manish, L00187738
-
-Sriram, L00187451
+First Fibonacci Series after "1024" is "1597"
